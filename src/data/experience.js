@@ -1,0 +1,75 @@
+export const experiences = [
+  {
+    id: 'ryzenforge',
+    number: '01',
+    company: 'Ryzenforge Enterprises',
+    shortName: 'Ryzenforge',
+    role: 'Associate Web Developer Intern',
+    period: 'December 2025 – August 2026',
+    location: 'Kochi, India',
+    description:
+      'Contributed to end-to-end web development and client project delivery at Ryzenforge Enterprises.',
+    responsibilities: [
+      'Designed UI/UX layouts and interactive prototypes using Figma.',
+      'Developed and maintained responsive websites for client projects.',
+      'Handled website hosting configuration and production deployment.',
+      'Customized and managed WordPress themes and plugins.',
+      'Coordinated directly with clients to gather requirements and provide project updates.',
+      'Tracked tasks and supported project management workflows.',
+    ],
+    technologies: ['Figma', 'HTML', 'CSS', 'JavaScript', 'WordPress', 'React.js'],
+  },
+  {
+    id: 'techmindz',
+    number: '02',
+    company: 'Techmindz',
+    shortName: 'Techmindz',
+    role: 'MERN Stack Intern',
+    period: 'June 2025 – December 2025',
+    location: 'Kochi, India',
+    description:
+      'Gained hands-on experience in full-stack web development and software quality assurance within an Agile team.',
+    responsibilities: [
+      'Developed frontend components and pages using React.js.',
+      'Integrated REST APIs with the frontend and handled MongoDB data operations.',
+      'Conducted manual API testing and validation using Postman.',
+      'Participated in Agile ceremonies and collaborative debugging sessions.',
+      'Documented test cases, bugs, and resolution outcomes.',
+    ],
+    technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Postman', 'JavaScript'],
+  },
+  {
+    id: 'internpe',
+    number: '03',
+    company: 'Internpe',
+    shortName: 'Internpe',
+    role: 'Web Development Intern',
+    period: 'June 2024 – July 2024',
+    location: 'India',
+    description:
+      'Built responsive web pages and improved cross-browser compatibility as part of an online internship programme.',
+    responsibilities: [
+      'Developed responsive web pages using HTML, CSS, JavaScript, and Bootstrap.',
+      'Ensured cross-browser compatibility across major browsers.',
+      'Tested and validated mobile responsiveness across multiple screen sizes.',
+    ],
+    technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+  },
+  {
+    id: 'stem-robotics',
+    number: '04',
+    company: 'STEM Robotics',
+    shortName: 'STEM Robotics',
+    role: 'AI & Robotics Intern',
+    period: 'May 2023',
+    location: 'Trivandrum, India',
+    description:
+      'Explored foundational AI and robotics concepts through hands-on programming exercises.',
+    responsibilities: [
+      'Completed programming exercises using Python and Arduino IDE.',
+      'Studied AI concepts including decision-making logic and basic automation.',
+      'Participated in robotic decision-making simulations.',
+    ],
+    technologies: ['Python', 'Arduino IDE'],
+  },
+]
